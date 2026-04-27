@@ -55,7 +55,7 @@ def total_salary(path):
         )
 
 if __name__ == "__main__":
-    total_sum, salary_avg = total_salary("ad1.txt")
+    total_sum, salary_avg = total_salary("as1.txt")
     print(
         f"Загальна сума заробітної плати: {total_sum:.0f}, "
         f"Середня заробітна плата: {salary_avg:.0f}"

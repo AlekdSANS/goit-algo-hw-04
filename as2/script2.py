@@ -49,6 +49,6 @@ def get_cats_info(path):
         )
 
 if __name__ == "__main__":
-    cats_info = get_cats_info("ad2.txt")
+    cats_info = get_cats_info("as2.txt")
     for cat in cats_info:
         print(cat)
